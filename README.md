@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nauviii
+- 👋 Hi, I’m @Nauviii Math Major from Brawijaya University
 - 👀 I’m interested in Data sciences, Machine Learning, and AI
 - 🌱 I’m currently learning NLP, Forecasting, and ML Classic
 - 💞️ I’m looking to collaborate on ...
